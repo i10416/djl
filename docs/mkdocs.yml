@@ -97,6 +97,7 @@ nav:
           - PyTorch Model Zoo: 'engines/pytorch/pytorch-model-zoo/README.md'
           - Import PyTorch Model: 'docs/pytorch/how_to_convert_your_model_to_torchscript.md'
           - Load a PyTorch Model: 'jupyter/load_pytorch_model.ipynb'
+          - PyTorch NDArray operators: 'docs/pytorch/pytorch-djl-ndarray-cheatsheet.md'
       - TensorFlow:
           - Overview: 'engines/tensorflow/README.md'
           - TensorFlow Engine: 'engines/tensorflow/tensorflow-engine/README.md'
